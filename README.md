@@ -75,5 +75,5 @@ If you'd like to contribute to this project, please follow these steps:
 2. Create a new branch
 3. Make your changes
 4. Test your changes
-5. Submit a pull request
+5. Submit a pull request.
 
