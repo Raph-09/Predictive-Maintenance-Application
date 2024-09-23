@@ -61,7 +61,7 @@ We approached this problem as a classification task, with the goal of classifyin
 
 ## Model Assessment
 
-To assess the performance of our classification models, we used several evaluation metrics, including accuracy, recall, precision, F1 score, true positive rate, and true negative rate. These metrics provide insights into how well the models perform in identifying failures.
+To assess the performance of our classification models, we used several evaluation metrics, including accuracy, recall, precision, F1 score, true positive rate, and true negative rate. These metrics provide insights into how well the models perform in identifying failures..
 
 ## Model Deployment
 
